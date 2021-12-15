@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StevanFreeborn
+- 👋🏻 Hi, I’m @StevanFreeborn
 - 👀 I’m interested in learning how to build software.
 - 🌱 I’m currently learning C#, JavaScript, Python, and whatever else strikes me.
 - 💞️ I’m looking to collaborate on projects that will give me opportunities to build solutions for real world problems.
