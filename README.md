@@ -19,7 +19,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=StevanFreeborn&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StevanFreeborn&theme=solarized-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevanFreeborn&theme=solarized-dark&hide_border=false&layout=compact)
+![](https://github-readme-stats-two-ruddy-72.vercel.app/api/top-langs/?username=StevanFreeborn&theme=solarized-dark&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=StevanFreeborn&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
