@@ -5,6 +5,20 @@
 + 🌱 I’m currently learning C#, HTML, CSS, JavaScript/Typescript, Python, and whatever else strikes me.
 + 📫 Please email me at stevan.freeborn@gmail.com if you'd like to get in touch.
 
+### 🏫 Courses I've Completed
+
++ [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web)
++ [freeCodeCamp](https://www.freecodecamp.org/StevanFreeborn)
+  + Responsive Web Design Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/responsive-web-design)
+  + Javascript Algorithms and Data Structures Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/javascript-algorithms-and-data-structures)
+  + Front End Development Libraries Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/front-end-development-libraries)
+  + Data Visualization Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/data-visualization)
+  + Back End and APIs Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/back-end-development-and-apis)
+  + Quality Assurance Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/quality-assurance-v7)
+  + Information Security Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/information-security-v7)
+  + Scientific Computing Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/scientific-computing-with-python-v7)
+  + Data Analysis with Python Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/data-analysis-with-python-v7)
+  + Relational Database Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/relational-database-v8)
 
 ### 👋🏻 Let's Connect
 
