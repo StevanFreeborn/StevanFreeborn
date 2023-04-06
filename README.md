@@ -19,6 +19,13 @@
   + Scientific Computing Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/scientific-computing-with-python-v7)
   + Data Analysis with Python Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/data-analysis-with-python-v7)
   + Relational Database Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/relational-database-v8)
++ [The Odin Project](https://www.theodinproject.com/)
+  + [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
+    + **Project:** Recipes [Preview](https://stevanfreeborn.github.io/theOdinProject-Recipes/) [Source](https://github.com/StevanFreeborn/theOdinProject-Recipes)
+    + **Project:** Landing Page [Preview](https://stevanfreeborn.github.io/theOdinProject-Landing-Page/) [Source](https://stevanfreeborn.github.io/theOdinProject-Landing-Page/)
+    + **Project:** Rock, Paper, Scissors [Preview](https://stevanfreeborn.github.io/theOdinProject-Rock-Paper-Scissors/) [Source](https://stevanfreeborn.github.io/theOdinProject-Rock-Paper-Scissors/)
+    + **Project:** Etch-A-Sketch [Preview](https://stevanfreeborn.github.io/theOdinProject-Etch-A-Sketch/) [Source](https://stevanfreeborn.github.io/theOdinProject-Etch-A-Sketch/)
+    + **Project:** Calculator [Preview](https://stevanfreeborn.github.io/theOdinProject-Calculator/) [Source](https://stevanfreeborn.github.io/theOdinProject-Calculator/)
 
 ### 👋🏻 Let's Connect
 
