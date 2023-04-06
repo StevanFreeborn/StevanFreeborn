@@ -21,11 +21,11 @@
   + Relational Database Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/relational-database-v8)
 + [The Odin Project](https://www.theodinproject.com/)
   + [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
-    + **Project:** Recipes [Preview](https://stevanfreeborn.github.io/theOdinProject-Recipes/) [Source](https://github.com/StevanFreeborn/theOdinProject-Recipes)
-    + **Project:** Landing Page [Preview](https://stevanfreeborn.github.io/theOdinProject-Landing-Page/) [Source](https://stevanfreeborn.github.io/theOdinProject-Landing-Page/)
-    + **Project:** Rock, Paper, Scissors [Preview](https://stevanfreeborn.github.io/theOdinProject-Rock-Paper-Scissors/) [Source](https://stevanfreeborn.github.io/theOdinProject-Rock-Paper-Scissors/)
-    + **Project:** Etch-A-Sketch [Preview](https://stevanfreeborn.github.io/theOdinProject-Etch-A-Sketch/) [Source](https://stevanfreeborn.github.io/theOdinProject-Etch-A-Sketch/)
-    + **Project:** Calculator [Preview](https://stevanfreeborn.github.io/theOdinProject-Calculator/) [Source](https://stevanfreeborn.github.io/theOdinProject-Calculator/)
+    + **Project:** Recipes ([preview](https://stevanfreeborn.github.io/theOdinProject-Recipes/)) ([source](https://github.com/StevanFreeborn/theOdinProject-Recipes))
+    + **Project:** Landing Page ([preview](https://stevanfreeborn.github.io/theOdinProject-Landing-Page/)) ([source](https://stevanfreeborn.github.io/theOdinProject-Landing-Page/))
+    + **Project:** Rock, Paper, Scissors ([preview](https://stevanfreeborn.github.io/theOdinProject-Rock-Paper-Scissors/)) ([source](https://stevanfreeborn.github.io/theOdinProject-Rock-Paper-Scissors/))
+    + **Project:** Etch-A-Sketch ([preview](https://stevanfreeborn.github.io/theOdinProject-Etch-A-Sketch/)) ([source](https://stevanfreeborn.github.io/theOdinProject-Etch-A-Sketch/))
+    + **Project:** Calculator ([preview](https://stevanfreeborn.github.io/theOdinProject-Calculator/)) ([source](https://stevanfreeborn.github.io/theOdinProject-Calculator/))
 
 ### 👋🏻 Let's Connect
 
