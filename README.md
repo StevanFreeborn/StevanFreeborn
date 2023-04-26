@@ -1,4 +1,4 @@
-# 📖 About Me 
+# 📖 About Me
 
 + 👨🏻 Hi, I’m Stevan Freeborn.
 + 👀 I’m interested in learning how to build software.
