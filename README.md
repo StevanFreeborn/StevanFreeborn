@@ -43,6 +43,7 @@
 
 ## 🛡️ Badges
 
+![badge-27790](https://github.com/StevanFreeborn/StevanFreeborn/assets/65925598/6e727327-268c-49c3-bfde-4ce4f30c47d0)
 [![ms-graph-badge](https://user-images.githubusercontent.com/65925598/230628974-a44e92be-f342-42b3-9aaa-aaa98d69aa0c.png)](https://github.com/StevanFreeborn/OnspringAzureADSyncer)
 
 ## 🏆 GitHub Trophies
