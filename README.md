@@ -9,6 +9,7 @@
 
 + [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web)
 + [freeCodeCamp](https://www.freecodecamp.org/StevanFreeborn)
+  + Foundational C# with Microsoft [(certification)](https://www.freecodecamp.org/certification/StevanFreeborn/foundational-c-sharp-with-microsoft)
   + Responsive Web Design Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/responsive-web-design)
   + Javascript Algorithms and Data Structures Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/javascript-algorithms-and-data-structures)
   + Front End Development Libraries Certification [(projects)](https://www.freecodecamp.org/certification/StevanFreeborn/front-end-development-libraries)
