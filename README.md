@@ -1,6 +1,7 @@
 # 📖 About Me
 
 + 👨🏻 Hi, I’m Stevan Freeborn.
++ 🕸️ You can find out more about me [here](https://stevanfreeborn.com)
 + 👀 I’m interested in learning how to build software.
 + 🌱 I’m currently learning C#, HTML, CSS, JavaScript/Typescript, Python, and whatever else strikes me.
 + 📫 Please email me at stevan.freeborn@gmail.com if you'd like to get in touch.
