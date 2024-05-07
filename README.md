@@ -28,6 +28,7 @@
     + **Project:** Rock, Paper, Scissors [(preview)](https://stevanfreeborn.github.io/theOdinProject-Rock-Paper-Scissors/) [(source)](https://stevanfreeborn.github.io/theOdinProject-Rock-Paper-Scissors/)
     + **Project:** Etch-A-Sketch [(preview)](https://stevanfreeborn.github.io/theOdinProject-Etch-A-Sketch/) [(source)](https://stevanfreeborn.github.io/theOdinProject-Etch-A-Sketch/)
     + **Project:** Calculator [(preview)](https://stevanfreeborn.github.io/theOdinProject-Calculator/) [(source)](https://stevanfreeborn.github.io/theOdinProject-Calculator/)
+    + **Project:** Todo List App [(preview)](https://stevanfreeborn.github.io/theOdinProject-Todo-List/) [(source)](https://github.com/StevanFreeborn/theOdinProject-Todo-List)
 
 ### 👋🏻 Let's Connect
 
