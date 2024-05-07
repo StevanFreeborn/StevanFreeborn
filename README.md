@@ -28,6 +28,10 @@
     + **Project:** Rock, Paper, Scissors [(preview)](https://stevanfreeborn.github.io/theOdinProject-Rock-Paper-Scissors/) [(source)](https://stevanfreeborn.github.io/theOdinProject-Rock-Paper-Scissors/)
     + **Project:** Etch-A-Sketch [(preview)](https://stevanfreeborn.github.io/theOdinProject-Etch-A-Sketch/) [(source)](https://stevanfreeborn.github.io/theOdinProject-Etch-A-Sketch/)
     + **Project:** Calculator [(preview)](https://stevanfreeborn.github.io/theOdinProject-Calculator/) [(source)](https://stevanfreeborn.github.io/theOdinProject-Calculator/)
+  + [Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
+    + **Project:** Sign-up Form [(preview)](https://stevanfreeborn.github.io/theOdinProject-SignUp-Form/) [(source)](https://github.com/StevanFreeborn/theOdinProject-SignUp-Form)
+    + **Project:** Admin Dashboard [(preview)](https://stevanfreeborn.github.io/theOdinProject-Admin-Dashboard/) [(source)](https://github.com/StevanFreeborn/theOdinProject-Admin-Dashboard)
+  + [JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript)
     + **Project:** Todo List App [(preview)](https://stevanfreeborn.github.io/theOdinProject-Todo-List/) [(source)](https://github.com/StevanFreeborn/theOdinProject-Todo-List)
 
 ### 👋🏻 Let's Connect
