@@ -19,7 +19,7 @@ public sealed class GitHubProfile
     Personal = new Interests();
 
     Stack = new TechStack(new[] { 
-      "C#", ".NET", "TypeScript", "Go", "Rust",
+      "C#", "TypeScript", "Go", "Rust",
     });
 
     CurrentWork = new EngineeringLog();
