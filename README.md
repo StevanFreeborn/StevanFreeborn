@@ -34,6 +34,13 @@ public sealed class GitHubProfile
 
 public sealed record Identity(string Name, string Role, string Location);
 
+public sealed class Interests
+{
+    public string Coffee => "I'll drink any of it, but the stronger the better.";
+    public string Tech => "Windows, Terminal, and Neovim...it gets weird.";
+    public string Weightlifting => "You can take the bro out of the gym, but not the gym out of the bro";
+}
+
 public sealed class TechStack(IEnumerable<string> Languages)
 {
     public IEnumerable<string> Primary => Languages;
@@ -43,12 +50,5 @@ public sealed class EngineeringLog
 {
   private readonly Dictionary<string, string> _projects = new();
   public void AddProject(string name, string desc) => _projects[name] = desc;
-}
-
-public sealed class Interests
-{
-    public string Coffee => "I'll drink any of it, but the stronger the better.";
-    public string Tech => "Windows, Terminal, and Neovim...it gets weird.";
-    public string Weightlifting => "You can take the bro out of the gym, but not the gym out of the bro";
 }
 ```
