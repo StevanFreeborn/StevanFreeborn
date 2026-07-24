@@ -23,12 +23,14 @@ public sealed class GitHubProfile
     });
 
     CurrentWork = new EngineeringLog();
-    CurrentWork.AddProject("Zoeae", "My notepad app. It is built in Rust btw.");
     CurrentWork.AddProject("FiscalOS", "A simple personfal finace app.");
     CurrentWork.AddProject("netdi", "Bring the .NET DI system to TypeScript.");
-    CurrentWork.AddProject("termchat", "Who doesn't want chat in their terminal?");
     CurrentWork.AddProject("stream-shorts", "Create short form content from long form content");
+    CurrentWork.AddProject("stream-shorts", "Create short form content from long form content");
+    CurrentWork.AddProject("termato", "Pomodoro time in your terminal.");
+    CurrentWork.AddProject("termchat", "Who doesn't want chat in their terminal?");
     CurrentWork.AddProject("termtier", "Tier lists in the terminal.");
+    CurrentWork.AddProject("Zoeae", "My notepad app. It is built in Rust btw.");
   }
 }
 
